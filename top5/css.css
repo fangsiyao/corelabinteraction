@@ -1,0 +1,27 @@
+	body{background-image:url(C:/Users/ASUS/Desktop/top5/background.png)}
+body {font-size:140%;font-family:'Roboto Mono', monospace; background-color:#ECB88A;text-align:center;max-width: 140em;}
+h1 {font-family:  'Roboto Mono', monospace;font:3em normal; text-align:center;}
+
+#img_wrap{margin-left:550px;}
+ul,li{ padding:0; margin:0; overflow:hidden;margin-left:0px;}
+li{ list-style:none;}
+img{ border:0;display:table-cell;text-align:center;vertical-align:middle;}
+.box{ width:800px;}
+.box li{ float:left;width:150px;height:400px;}
+
+
+#content {color: #43341B;background-color: transparent;line-height: 1.8em;text-align:center;}
+#content div {padding: 0px;line-height: 1.8em;text-align:center;}
+#content h1 {font:2.4em;line-height: 240%;font-family: 'Roboto Mono', monospace;}
+
+
+a {font-weight: bold;text-decoration:blink;}
+a:link {color: #ffffff; background-color: transparent;}
+
+
+
+
+
+
+a {font-weight: bold;text-decoration:blink;}
+a:link {color: #43341B; background-color: transparent;}
